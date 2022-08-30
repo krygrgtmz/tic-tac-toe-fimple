@@ -1,7 +1,6 @@
 # Fimple React Practicum
 
 ## First Case
----
 
 ### Case Detail
 
